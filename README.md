@@ -1,3 +1,3 @@
 # Hello
 First Git Repository. 
-Author - Hets Shah
+Author - Hetvi Shah
